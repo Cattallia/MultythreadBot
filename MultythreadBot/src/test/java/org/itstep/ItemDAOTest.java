@@ -2,8 +2,8 @@ package org.itstep;
 
 import static org.junit.Assert.*;
 
-import java.awt.List;
 import java.util.ArrayList;
+import java.util.List;
 
 import org.itstep.dao.ItemDAO;
 import org.itstep.model.Item;
